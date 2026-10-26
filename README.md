@@ -43,7 +43,7 @@ PNG or JPEG. A transparent logo lies on the mat or runner. A logo on a plain bac
 | Runner in the FBO | `logo_runner.png` (two panels), `logo_runner_1.png` (one panel), `logo_runner_h.png` (one long panel) | `plugins/GLF650_Walkaround/fbo_custom/` |
 | TV behind the reception | any name with `tv`, e.g. `logo_tv.png` | `plugins/GLF650_Walkaround/fbo_custom/` |
 
-You can also drop MP3s into `fbo_custom` for your own lounge music. To change the sign over the reception, use the phone: Settings > FBO sign.
+You can also drop MP3s into `fbo_custom` for your own lounge music.
 
 ---
 Unofficial and free; not affiliated with Gulfstream Aerospace, AKD Studio or Mercedes-Benz. Based on FA8X Walkaround.
