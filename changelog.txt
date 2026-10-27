@@ -1,3 +1,12 @@
+1.0.1
+- Turnaround: after collecting, van and car bring new bags and passengers once your next SimBrief plan from this airport is in
+- Collecting: a vehicle sent away early can come again; also after a round trip to the same airport
+- Vehicles keep more distance to the aircraft, no longer drive through the wings and avoid other parked aircraft (AI/multiplayer)
+- FBO: the briefing room computer opens SimBrief in your browser
+- FBO: the briefing room clocks run
+- Zoom: no longer locked after sitting down with X-Camera
+- Phone: "Go to the lounge" says why when it cannot
+
 1.0
 - First version for the AKD Studio GLF650 and GLF650ER, made from FA8X Walkaround 1.5: walking in the cabin, cockpit and baggage compartment, the airstair, outside round the aircraft, the cabin seats, the luggage van to the aft baggage door and the passenger car to the airstair, the FBO lounge with the ride to the aircraft, the phone
 - Updates through the SkunkCrafts Updater
